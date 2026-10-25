@@ -31,7 +31,7 @@
 
 ## 💼 About Me
 
-* 💻 5+ years of full-stack software engineering experience
+* 💻 6+ years of full-stack software engineering experience
 * ⚛️ React, Next.js, TypeScript & Node.js
 * 🤖 AI-powered applications and integrations
 * 🗄️ PostgreSQL, MongoDB, MySQL & Prisma
