@@ -112,7 +112,7 @@ I'm currently open to **full-time software engineering roles** and **freelance o
 ## 🏆 Professional Impact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/5%2B%20Years-Experience-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/6%2B%20Years-Experience-181717?style=for-the-badge" />
   <img src="https://img.shields.io/badge/40%25-Revenue%20Growth-181717?style=for-the-badge" />
   <img src="https://img.shields.io/badge/70%25-API%20Performance-181717?style=for-the-badge" />
   <img src="https://img.shields.io/badge/99%25-Uptime-181717?style=for-the-badge" />
